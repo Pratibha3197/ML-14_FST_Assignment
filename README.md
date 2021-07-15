@@ -1,2 +1,2 @@
 # ML-14_FST_Assignment
-In this repository machine learning assignmenst is submitted given by symbiosis.
+In this repository machine learning assignments is submitted given by symbiosis.
